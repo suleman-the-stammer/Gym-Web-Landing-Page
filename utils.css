@@ -1,0 +1,34 @@
+.flex{
+    display: flex;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+
+}
+.justify-center{
+    justify-content: center;
+    
+}
+.text-allign{
+    text-align: center;
+}
+.grid{
+    display:grid
+}
+.font-bold{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.font-boldx{
+    font-weight: bolder;
+    font-size: larger;
+}
